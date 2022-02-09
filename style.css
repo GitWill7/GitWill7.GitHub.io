@@ -1,0 +1,18 @@
+body {
+  background-image: url("imgs/background.jpg");
+  color: #c23b1d;
+}
+
+.product-box {
+  background-color: rgb(0, 0, 0, 0.9)
+}
+
+.product-box img {
+  width: 100%;
+  height: auto;
+}
+
+.col-4 {
+  width: 32%;
+  margin-right: 1%;
+}
